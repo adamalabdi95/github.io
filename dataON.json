@@ -4,9 +4,8 @@
 
     "AdsController": [
       {
-        "NetworkAds": "admob",
+        "NetworkAds": "facebook",
         "AdMobId": "pub-3940256099942544",
-
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
@@ -21,7 +20,7 @@
     "items": [
       {
         "title": "Note",
-        "image": "https://www.superherohype.com/assets/uploads/2021/01/Godzilla-vs-Kong-1280x720.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZPAIIG0hn0CL-XYmblDc2leNHrpiX2t9p3w&usqp=CAU"
       },
       {
         "title": "Vikings - Season 1-6",
@@ -83,7 +82,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "true","link_title": "Click here of Vikings - Season 1","setLink": "https://mega.nz/folder/cRxxBCiR#n_7mcSlg4ncJmwMB7zwUsA",
-        "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
+        "image_link": "https://phcorner.net/attachments/1612694229529-png.1292299/",
         "text": "Vikings is a historical drama television series, written and created by Michael Hirst for the television channel History. The series broadly follows the exploits of the legendary Viking chieftain Ragnar Lothbrok and his crew, and in later seasons those of his sons.\nNumber of episodes:9",
         "isNative": "true"
       },
@@ -223,7 +222,7 @@
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "true","link_title": "Click here","setLink": "",
+        "isLink": "true","link_title": "Click here","setLink": "https://mega.nz/folder/kL4GHCLI#pqZ50mGXZ6p5r4TXX5iKjw",
         "image_link": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/10/His-Dark-Materials-Season-1-2019.jpg",
         "text": "Synopsis: A young girl is destined to liberate her world from the grip of the Magisterium which represses people’s ties to magic and their animal spirits known as daemons.",
         "isNative": "true"
@@ -236,7 +235,7 @@
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "true","link_title": "Click here","setLink": "",
+        "isLink": "true","link_title": "Click here","setLink": "https://mega.nz/folder/tp9SjQgb#9nHT5Oqv-Ung84mIkWLr6g",
         "image_link": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/09/Constantine-Season-1-2015.jpg",
         "text": "",
         "isNative": "true"
@@ -250,9 +249,9 @@
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "true","link_title": "Click here","setLink": "",
-        "image_link": "",
-        "text": "",
+        "isLink": "true","link_title": "Click here","setLink": "https://mega.nz/folder/ILxm2TwA#v9vGKkwrNixiOiWGmtgPOg",
+        "image_link": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/10/The-Boys-Season-2.jpg",
+        "text": "Synopsis: With Butcher still missing, Hughie, Mother’s Milk, Frenchie, and Kimiko are now fugitives, and Homelander and Vought are more powerful than ever. But just as the Boys are about to leave the country, they are pulled back into the fray. Butcher is back with the Boys, but tensions flare with Hughie. Homelander spends quality time with his new “family.” Starlight and Stormfront bond at a press junket and the Boys hunt down a super terrorist with a startling identity.",
         "isNative": "true"
       }
     ],
@@ -264,9 +263,9 @@
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "true","link_title": "Click here","setLink": "",
-        "image_link": "",
-        "text": "",
+        "isLink": "true","link_title": "Click here","setLink": "https://mega.nz/folder/XYFRBALS#Me6v57syzDHsdy9GZUbWsw",
+        "image_link": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/09/Sex-Education.jpg",
+        "text": "Synopsis: A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.",
         "isNative": "true"
       }
     ],
@@ -291,9 +290,9 @@
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "true","link_title": "Click here","setLink": "",
-        "image_link": "",
-        "text": "",
+        "isLink": "true","link_title": "Click here","setLink": "https://mega.nz/folder/5EkhTIbY#C1sSUOHDk0Bv1YJhneOyvw",
+        "image_link": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/09/Lucifer.jpg",
+        "text": "Synopsis: Lucifer Morningstar has decided he’s had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles – the City of Angels.",
         "isNative": "true"
       }
     ]
