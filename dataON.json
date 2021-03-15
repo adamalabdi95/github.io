@@ -20,32 +20,38 @@
 
     "items": [
       {
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg"
+        "title": "Guid 1",
+        "image": "https://www.superherohype.com/assets/uploads/2021/01/Godzilla-vs-Kong-1280x720.jpg"
       },
       {
-        "title": "The Old 2",
-        "image": "https://usercontent1.hubstatic.com/8037694.jpg"
+        "title": "Guid 2",
+        "image": "https://www.hebdocine.com/wp-content/uploads/2017/08/undefined_a3b0abb14d437c8b72d8debfd6c2d582.jpg"
       },
       {
-        "title": "Call of Cthulhu: Wasted Land ",
-        "image": "https://usercontent1.hubstatic.com/6961608.jpg"
+        "title": "Guid 3",
+        "image": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/11/200dc386-1398-40f9-92ca-3a602d283a62/801x410_godzilla-vs-kong.jpg"
       },
       {
-        "title": "Dead Space Android",
-        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg"
-      },
-      {
-        "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg"
-      },
-      {
-        "title": "Twisted Lands: Shadow Town",
-        "image": "https://usercontent1.hubstatic.com/6961620.jpg"
+        "title": "Guid 4",
+        "image": "https://fr.web.img2.acsta.net/r_640_360/newsv7/20/05/26/09/32/3387865.jpg"
       }
     ],
 
     "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.avcesar.com/source/actualites/00/00/80/99/godzilla-vs-kong-bande-annonce-geante-officielle-disponible_0110420.jpg",
+        "text": "The runtime for the upcoming Adam Wingard-directed Godzilla vs. Kong has reportedly had its runtime revealed. The film serves as the latest installment for Legendary Entertainment's MonsterVerse, a shared cinematic universe for Godzilla, King Kong, and other iconic movie monsters. Godzilla vs. Kong is preceded by three films: Godzilla (2014), Kong: Skull Island (2017), and Godzilla: King of the Monsters (2019). The reception for the films has been mixed, but all three have been relative box office successes. Despite only containing a few movies, Legendary's MonsterVerse has been one of the more successful cinematic universes in modern cinema.",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
@@ -53,41 +59,36 @@
         "left": "10",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "image_link": "https://1.bp.blogspot.com/-tv5xsebbQPs/X7aLdGV9GFI/AAAAAAAAikw/dzDJRefrKtMpESR2Vs2D-KI8NyOe3E_LwCLcBGAsYHQ/s700/AR_Group_gthhgnre.PNG",
+        "text": "One of Legendary's previous Godzilla films' more common criticisms has been the overstuffed story and bloated runtime. Gareth Edwards' Godzilla came in at 2 hours and 3 minutes. Michael Dougherty's Godzilla: King of the Monsters ran for 2 hours and 12 minutes - making the films the fourth and second-longest Godzilla movies in history, respectively. The vast majority of the Japanese Toho Godzilla films have runtimes under two hours. Both of Legendary's Godzilla movies have been criticized for lingering too much on the human stories - and the films ended up dragging because of it.",
         "isNative": "false"
-      },
+      }
+    ],
+
+    "content3": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
-        "text": "",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
+        "left": "10",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/6961608.jpg",
-        "text": "A touch-centric game, The Pact has gesture-based controls that allow gamers to use common finger gestures while operating a crossbow or a sword. The controls are easy to master and quite fun. The stunning visuals, provided by Unreal's Game Engine 3, are an unmatched visual feast.",
-        "isNative": "true"
-      },
+        "image_link": "https://www.superherohype.com/assets/uploads/2021/01/Godzilla-vs-Kong-1280x720.jpg",
+        "text": "Now, according to a French website called AlloCine, Godzilla vs. Kong's runtime has been revealed - the film will come in at 1 hour and 53 minutes. Assuming the runtime is correct, this not only makes it the shortest Legendary Godzilla film - but the shortest MonsterVerse film in general (Kong: Skull Island came in at 1 hour and 58 minutes). However, at the moment, no official announcement has been made from Legendary Entertainment.",
+        "isNative": "false"
+      }
+    ],
+
+    "content4": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
-        "left": "5",
+        "left": "10",
         "text_size": "25",
-        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
-        "image_link": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
-        "text": "Dark Meadow is an exploration-based game and has some scary surprises in store. While exploring the haunted hospital, you will uncover several , puzzles, and weapons. You can use in-game money to buy items and equipment that will help you survive the goblin onslaught. With amazing visuals, deep storyline, and excellent gameplay, this survival horror game is here to give you the creeps.",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://fr.web.img2.acsta.net/r_640_360/newsv7/20/05/26/09/32/3387865",
+        "text": "While the film may be shorter than its predecessors, that doesn't mean it won't be able to serve a similar amount of monster-action. The film's composer, Junkie XL, recently revealed that the aircraft carrier fight scene would be 18 minutes long. The scene has been heavily featured in the film's trailers and appears to be the first time the titular monsters meet. An 18-minute fight scene would be one of the longest in MonsterVerse history. \n \nWhile this isn't an official confirmation for Godzilla vs. Kong's runtime - it doesn't seem too far out of the realm of possibility. While the battle between Godzilla and King Kong could last for a long time - a shorter running time would probably serve the MonsterVerse well. If the film focuses less on the humans and more on the monsters - which that 18-minute fight scene suggests is the case - then the film's shorter runtime could help address the criticism leveled at Godzilla and Godzilla: King of the Monsters. We won't have to wait too much longer to find out its runtime definitively - as Godzilla vs. Kong will release at the end of March.",
         "isNative": "false"
       }
     ]
