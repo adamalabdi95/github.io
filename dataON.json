@@ -67,7 +67,7 @@
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "true","link_title": "Click here","setLink": "mega.privacy.android.app",
+        "isLink": "true","link_title": "Click here","setLink": "https://play.google.com/store/apps/details?id=mega.privacy.android.app",
         "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZPAIIG0hn0CL-XYmblDc2leNHrpiX2t9p3w&usqp=CAU",
         "text": "first installer mega app ",
         "isNative": "true"
