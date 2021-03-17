@@ -1,0 +1,96 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Guid 1",
+        "image": "https://www.superherohype.com/assets/uploads/2021/01/Godzilla-vs-Kong-1280x720.jpg"
+      },
+      {
+        "title": "Guid 2",
+        "image": "https://www.hebdocine.com/wp-content/uploads/2017/08/undefined_a3b0abb14d437c8b72d8debfd6c2d582.jpg"
+      },
+      {
+        "title": "Guid 3",
+        "image": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/11/200dc386-1398-40f9-92ca-3a602d283a62/801x410_godzilla-vs-kong.jpg"
+      },
+      {
+        "title": "Guid 4",
+        "image": "https://fr.web.img2.acsta.net/r_640_360/newsv7/20/05/26/09/32/3387865.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.avcesar.com/source/actualites/00/00/80/99/godzilla-vs-kong-bande-annonce-geante-officielle-disponible_0110420.jpg",
+        "text": "The runtime for the upcoming Adam Wingard-directed Godzilla vs. Kong has reportedly had its runtime revealed. The film serves as the latest installment for Legendary Entertainment's MonsterVerse, a shared cinematic universe for Godzilla, King Kong, and other iconic movie monsters. Godzilla vs. Kong is preceded by three films: Godzilla (2014), Kong: Skull Island (2017), and Godzilla: King of the Monsters (2019). The reception for the films has been mixed, but all three have been relative box office successes. Despite only containing a few movies, Legendary's MonsterVerse has been one of the more successful cinematic universes in modern cinema.",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://1.bp.blogspot.com/-tv5xsebbQPs/X7aLdGV9GFI/AAAAAAAAikw/dzDJRefrKtMpESR2Vs2D-KI8NyOe3E_LwCLcBGAsYHQ/s700/AR_Group_gthhgnre.PNG",
+        "text": "One of Legendary's previous Godzilla films' more common criticisms has been the overstuffed story and bloated runtime. Gareth Edwards' Godzilla came in at 2 hours and 3 minutes. Michael Dougherty's Godzilla: King of the Monsters ran for 2 hours and 12 minutes - making the films the fourth and second-longest Godzilla movies in history, respectively. The vast majority of the Japanese Toho Godzilla films have runtimes under two hours. Both of Legendary's Godzilla movies have been criticized for lingering too much on the human stories - and the films ended up dragging because of it.",
+        "isNative": "false"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.superherohype.com/assets/uploads/2021/01/Godzilla-vs-Kong-1280x720.jpg",
+        "text": "Now, according to a French website called AlloCine, Godzilla vs. Kong's runtime has been revealed - the film will come in at 1 hour and 53 minutes. Assuming the runtime is correct, this not only makes it the shortest Legendary Godzilla film - but the shortest MonsterVerse film in general (Kong: Skull Island came in at 1 hour and 58 minutes). However, at the moment, no official announcement has been made from Legendary Entertainment.",
+        "isNative": "false"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "35",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://fr.web.img2.acsta.net/r_640_360/newsv7/20/05/26/09/32/3387865",
+        "text": "",
+        "isNative": "false"
+      }
+    ]
+  }
+}
