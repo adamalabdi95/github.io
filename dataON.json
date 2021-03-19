@@ -6,9 +6,9 @@
       {
         "NetworkAds": "admob",
         "AdMobId": "pub-3940256099942544",
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-7542969702066047/1537369765",
+        "InterstitialAdmob": "ca-app-pub-7542969702066047/2733426585",
+        "NativeAdmob": "ca-app-pub-7542969702066047/1537369765",
 
         "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
         "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
@@ -229,7 +229,7 @@
         "isNative": "true"
       }
     ],
-    "content8": [
+    "content7": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
@@ -243,7 +243,7 @@
       }
     ],
 
-    "content9": [
+    "content8": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
@@ -257,7 +257,7 @@
       }
     ],
 
-    "content10": [
+    "content9": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
@@ -272,7 +272,7 @@
     ],
 
 
-    "content11": [
+    "content10": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
