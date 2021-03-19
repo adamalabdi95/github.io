@@ -5,14 +5,14 @@
     "AdsController": [
       {
         "NetworkAds": "admob",
-        "AdMobId": "pub-7542969702066047",
-        "BannerAdmob": "ca-app-pub-7542969702066047/9152684645",
-        "InterstitialAdmob": "ca-app-pub-7542969702066047/2733426585",
-        "NativeAdmob": "ca-app-pub-7542969702066047/1537369765",
+        "AdMobId": "pub-3940256099942544",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
-        "BannerFacebook": "893920401396606_893920938063219",
-        "InterstitialFacebook": "893920401396606_893920541396592",
-        "NativeFacebook": "893920401396606_893920938063219"
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "173186393601951_356298065290782"
 
       }
     ],
@@ -67,7 +67,7 @@
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "true","link_title": "Click here","setLink": "https://play.google.com/store/apps/details?id=mega.privacy.android.app",
+        "isLink": "true","link_title": "Click here","setLink": "mega.privacy.android.app",
         "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZPAIIG0hn0CL-XYmblDc2leNHrpiX2t9p3w&usqp=CAU",
         "text": "first installer mega app ",
         "isNative": "true"
@@ -152,7 +152,7 @@
         "text_size": "20",
         "isLink": "true","link_title": "Click here Breaking Bad - Season 1","setLink": "https://href.li/?https://mega.nz/#F!LrYylQiL!MRnoTN4og6Ln0R2lNwBWVQ",
         "image_link": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/06/Breaking-Bad-Season-1-5.jpg",
-        "text": "Breaking Bad - Season 1",
+        "text": "",
         "isNative": "true"
       },
       {
@@ -163,7 +163,7 @@
         "text_size": "25",
         "isLink": "true","link_title": "Click here Breaking Bad - Season 2","setLink": "https://href.li/?https://mega.nz/#F!OyBmWKxB!fXQBdvZ4XvgyHW7bgKR7_A",
         "image_link": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/06/Breaking-Bad-Season-1-5.jpg",
-        "text": "Breaking Bad - Season 2",
+        "text": "",
         "isNative": "true"
       },      {
         "ordered": "image_text",
@@ -173,7 +173,7 @@
         "text_size": "25",
         "isLink": "true","link_title": "Click here Breaking Bad- Season 3","setLink": "https://href.li/?https://mega.nz/#F!G7BknYxY!HqFWg6vrRZHX4bJil9RyFw",
         "image_link": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/06/Breaking-Bad-Season-1-5.jpg",
-        "text": "Breaking Bad - Season 3",
+        "text": "",
         "isNative": "true"
       },
        {
@@ -184,7 +184,6 @@
         "text_size": "25",
         "isLink": "true","link_title": "Click here Breaking Bad 4","setLink": "https://href.li/?https://mega.nz/#F!K6AwkKYa!b070l_xEmvcjA52QlLqMhw",
         "image_link": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/06/Breaking-Bad-Season-1-5.jpg",
-         "text": "Breaking Bad - Season 4",
         "isNative": "true"
       }
     ],
@@ -229,7 +228,7 @@
         "isNative": "true"
       }
     ],
-    "content7": [
+    "content8": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
@@ -243,7 +242,7 @@
       }
     ],
 
-    "content8": [
+    "content9": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
@@ -257,7 +256,7 @@
       }
     ],
 
-    "content9": [
+    "content10": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
@@ -270,7 +269,7 @@
         "isNative": "true"
       }
     ],
-    "content10": [
+    "content12": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
