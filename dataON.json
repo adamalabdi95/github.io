@@ -229,7 +229,7 @@
         "isNative": "true"
       }
     ],
-    "content8": [
+    "content7": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
@@ -243,7 +243,7 @@
       }
     ],
 
-    "content9": [
+    "content8": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
@@ -256,6 +256,19 @@
         "isNative": "true"
       }
     ],
+
+    "content9": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here","setLink": "https://mega.nz/folder/XYFRBALS#Me6v57syzDHsdy9GZUbWsw",
+        "image_link": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/09/Sex-Education.jpg",
+        "text": "Synopsis: A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.",
+        "isNative": "true"
+      }
 
     "content10": [
       {
