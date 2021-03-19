@@ -13,7 +13,6 @@
         "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
         "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
         "NativeFacebook": "173186393601951_356298065290782"
-
       }
     ],
 
@@ -327,10 +326,7 @@
         "title": "His Dark Materials",
         "image": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/10/His-Dark-Materials-Season-1-2019.jpg"
       },
-      {
-        "title": "Constantine Season 1",
-        "image": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/09/Constantine-Season-1-2015.jpg"
-      },
+
       {
         "title": "The Boys",
         "image": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/10/The-Boys-Season-2.jpg"
@@ -513,21 +509,8 @@
         "isNative": "true"
       }
     ],
-    "content8": [
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "true","link_title": "Click here","setLink": "https://mega.nz/folder/tp9SjQgb#9nHT5Oqv-Ung84mIkWLr6g",
-        "image_link": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/09/Constantine-Season-1-2015.jpg",
-        "text": "",
-        "isNative": "true"
-      }
-    ],
 
-    "content9": [
+    "content7": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
@@ -541,7 +524,7 @@
       }
     ],
 
-    "content10": [
+    "content8": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
@@ -554,7 +537,7 @@
         "isNative": "true"
       }
     ],
-    "content12": [
+    "content9": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
