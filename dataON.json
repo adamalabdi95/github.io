@@ -6,6 +6,291 @@
       {
         "NetworkAds": "admob",
         "AdMobId": "pub-3940256099942544",
+        "BannerAdmob": "ca-app-pub-7542969702066047/9152684645",
+        "InterstitialAdmob": "ca-app-pub-7542969702066047/2733426585",
+        "NativeAdmob": "ca-app-pub-7542969702066047/1537369765",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Note",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZPAIIG0hn0CL-XYmblDc2leNHrpiX2t9p3w&usqp=CAU"
+      },
+      {
+        "title": "Vikings - Season 1-6",
+        "image": "https://phcorner.net/attachments/1612694229529-png.1292299/"
+      },
+      {
+        "title": "Breaking Bad Season 1-5",
+        "image": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/06/Breaking-Bad-Season-1-5.jpg"
+      },
+      {
+        "title": "Helstrom Season 1",
+        "image": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/10/Helstrom-Season-1-2020.jpg"
+      },
+      {
+        "title": "The Queen’s Gambit Season 1",
+        "image": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/11/The-Queens-Gambit.jpg"
+      },
+      {
+        "title": "His Dark Materials",
+        "image": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/10/His-Dark-Materials-Season-1-2019.jpg"
+      },
+      {
+        "title": "Constantine Season 1",
+        "image": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/09/Constantine-Season-1-2015.jpg"
+      },
+      {
+        "title": "The Boys",
+        "image": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/10/The-Boys-Season-2.jpg"
+      },
+      {
+        "title": "Sex Education",
+        "image": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/09/Sex-Education.jpg"
+      },
+      {
+        "title": "Lucifer",
+        "image": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/09/Lucifer.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here","setLink": "mega.privacy.android.app",
+        "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZPAIIG0hn0CL-XYmblDc2leNHrpiX2t9p3w&usqp=CAU",
+        "text": "first installer mega app ",
+        "isNative": "true"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Click here of Vikings - Season 1","setLink": "https://mega.nz/folder/cRxxBCiR#n_7mcSlg4ncJmwMB7zwUsA",
+        "image_link": "https://phcorner.net/attachments/1612694229529-png.1292299/",
+        "text": "Vikings is a historical drama television series, written and created by Michael Hirst for the television channel History. The series broadly follows the exploits of the legendary Viking chieftain Ragnar Lothbrok and his crew, and in later seasons those of his sons.\nNumber of episodes:9",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here  of Vikings - Season 2","setLink": "https://mega.nz/folder/pJwjmCTJ#1YpdxZWuuV2AmL0jXR4B2Q",
+        "image_link": "https://phcorner.net/attachments/1612694348423-png.1292301/",
+        "text": "The second season of the historical drama television series Vikings premiered on February 27, 2014 on History in Canada, and concluded on May 1, 2014, consisting of ten episodes. The series broadly follows the exploits of the legendary Viking chieftain Ragnar Lothbrok and his crew, and later those of his sons\n\nNumber of episodes: 10",
+        "isNative": "true"
+      },      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here Vikings - Season 3","setLink": "https://mega.nz/folder/AUxjgAZI#hQ29BPv5aH6WwBMkolnHzA",
+        "image_link": "https://usercontent1.hubstatic.com/6961608.jpg",
+        "text": "The third season of the historical drama television series Vikings premiered on February 19, 2015 on History in Canada, and concluded on April 23, 2015, consisting of ten episodes. The series broadly follows the exploits of the legendary Viking chieftain Ragnar Lothbrok and his crew, and later those of his sons.\nNumber of episodes: 10",
+        "isNative": "true"
+      },
+       {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here Vikings - Season 4","setLink": "https://mega.nz/folder/tJxRAQgT#cUHmaNNk7WYXWs2OqeGdqQ",
+        "image_link": "https://phcorner.net/attachments/1612694965444-png.1292309/",
+        "text": "The fourth season of the historical drama television series Vikings premiered on February 18, 2016 on History in Canada. The series broadly follows the exploits of the legendary Viking chieftain Ragnar Lothbrok and his crew, and later those of his sons\nNumber of episodes: 20",
+        "isNative": "true"
+      },
+       {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here Vikings - Season 5","setLink": "https://mega.nz/folder/0AxlmSyI#2vqm47bHXZN53T0VyG7UvA",
+        "image_link": "https://phcorner.net/attachments/1612694965444-png.1292309/",
+        "text": "The fifth season of the historical drama television series Vikings premiered on November 29, 2017 on History in Canada. The series broadly follows the exploits of the legendary Viking chieftain Ragnar Lothbrok and his crew, and later those of his sons\nNumber of episodes: 20",
+        "isNative": "true"
+      },
+      
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here Vikings - Season 6","setLink": "https://mega.nz/folder/ZRx3EYoK#VHdT1-9-Eu8HEq07g72vPg",
+        "image_link": "https://phcorner.net/attachments/1612695314227-png.1292312/",
+        "text": "Ragnar Lothbrok, a legendary Norse hero, is a mere farmer who rises up to become a fearless warrior and commander of the Viking tribes with the support of his equally ferocious family.\nNumber of episodes: 20" ,
+        "isNative": "true"
+      }
+    ],
+
+    "content3": [
+       {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Click here Breaking Bad - Season 1","setLink": "https://href.li/?https://mega.nz/#F!LrYylQiL!MRnoTN4og6Ln0R2lNwBWVQ",
+        "image_link": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/06/Breaking-Bad-Season-1-5.jpg",
+        "text": "",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here Breaking Bad - Season 2","setLink": "https://href.li/?https://mega.nz/#F!OyBmWKxB!fXQBdvZ4XvgyHW7bgKR7_A",
+        "image_link": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/06/Breaking-Bad-Season-1-5.jpg",
+        "text": "",
+        "isNative": "true"
+      },      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here Breaking Bad- Season 3","setLink": "https://href.li/?https://mega.nz/#F!G7BknYxY!HqFWg6vrRZHX4bJil9RyFw",
+        "image_link": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/06/Breaking-Bad-Season-1-5.jpg",
+        "text": "",
+        "isNative": "true"
+      },
+       {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here Breaking Bad 4","setLink": "https://href.li/?https://mega.nz/#F!K6AwkKYa!b070l_xEmvcjA52QlLqMhw",
+        "image_link": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/06/Breaking-Bad-Season-1-5.jpg",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here","setLink": "https://mega.nz/folder/cShSUQLC#ubpObUO1J3ecC84jPiPPkA",
+        "image_link": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/10/Helstrom-Season-1-2020.jpg",
+        "text": "Synopsis: Daimon and Ana Helstrom are the son and daughter of a mysterious and powerful serial killer. The siblings have a complicated dynamic as they track down the terrorizing worst of humanity – each with their attitude and skills.",
+        "isNative": "true"
+      }
+    ],
+
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here","setLink": "https://mega.nz/folder/1HgSkCyD#f2Z5A8F5lQkDG9Gt7IHhyw",
+        "image_link": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/11/The-Queens-Gambit.jpg",
+        "text": "Synopsis: Eight year-old orphan Beth Harmon is quiet, sullen, and by all appearances unremarkable. That is, until she plays her first game of chess. Her senses grow sharper, her thinking clearer, and…",
+        "isNative": "true"
+      }
+    ],
+
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here","setLink": "https://mega.nz/folder/kL4GHCLI#pqZ50mGXZ6p5r4TXX5iKjw",
+        "image_link": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/10/His-Dark-Materials-Season-1-2019.jpg",
+        "text": "Synopsis: A young girl is destined to liberate her world from the grip of the Magisterium which represses people’s ties to magic and their animal spirits known as daemons.",
+        "isNative": "true"
+      }
+    ],
+    "content8": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here","setLink": "https://mega.nz/folder/tp9SjQgb#9nHT5Oqv-Ung84mIkWLr6g",
+        "image_link": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/09/Constantine-Season-1-2015.jpg",
+        "text": "",
+        "isNative": "true"
+      }
+    ],
+
+    "content9": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here","setLink": "https://mega.nz/folder/ILxm2TwA#v9vGKkwrNixiOiWGmtgPOg",
+        "image_link": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/10/The-Boys-Season-2.jpg",
+        "text": "Synopsis: With Butcher still missing, Hughie, Mother’s Milk, Frenchie, and Kimiko are now fugitives, and Homelander and Vought are more powerful than ever. But just as the Boys are about to leave the country, they are pulled back into the fray. Butcher is back with the Boys, but tensions flare with Hughie. Homelander spends quality time with his new “family.” Starlight and Stormfront bond at a press junket and the Boys hunt down a super terrorist with a startling identity.",
+        "isNative": "true"
+      }
+    ],
+
+    "content10": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here","setLink": "https://mega.nz/folder/XYFRBALS#Me6v57syzDHsdy9GZUbWsw",
+        "image_link": "https://i0.wp.com/mkvking.net/wp-content/uploads/2020/09/Sex-Education.jpg",
+        "text": "Synopsis: A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.",
+        "isNative": "true"
+      }
+    ],
+    "content12": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Click here","setLink": "https://mega.nz/folder/5EkhTIbY#C1sSUOHDk0Bv1YJhneOyvw",
+        "image_link": "https://i1.wp.com/mkvking.net/wp-content/uploads/2020/09/Lucifer.jpg",
+        "text": "Synopsis: Lucifer Morningstar has decided he’s had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles – the City of Angels.",
+        "isNative": "true"
+      }
+    ]
+  }
+}{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
@@ -269,7 +554,7 @@
         "isNative": "true"
       }
     ],
-    "content11": [
+    "content12": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
